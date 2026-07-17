@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Director Elena Ortiz">
+  <rect width="96" height="96" rx="20" fill="#FCFBF6"/>
+  <circle cx="48" cy="26" r="11" fill="#3D2B1F"/>
+  <circle cx="48" cy="44" r="20" fill="#B07B4F"/>
+  <path d="M28 42 Q30 22 48 22 Q66 22 68 42 Q60 32 48 32 Q36 32 28 42" fill="#3D2B1F"/>
+  <circle cx="41" cy="45" r="3.2" fill="#263A47"/>
+  <circle cx="55" cy="45" r="3.2" fill="#263A47"/>
+  <circle cx="42" cy="44" r="1" fill="#FFFFFF"/>
+  <circle cx="56" cy="44" r="1" fill="#FFFFFF"/>
+  <path d="M42 54 Q48 59 54 54" stroke="#7B4A2B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M24 92 Q24 68 48 68 Q72 68 72 92 Z" fill="#14A5E4"/>
+  <path d="M42 70 L48 78 L54 70 Q51 68 48 68 Q45 68 42 70" fill="#FCFBF6"/>
+  <circle cx="48" cy="82" r="3" fill="#FFC42E"/>
+</svg>

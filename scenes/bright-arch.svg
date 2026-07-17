@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" role="img" aria-label="The glowing Bright Arch and a note taped at the charging station">
+  <rect width="800" height="280" fill="#123648"/>
+  <rect x="0" y="228" width="800" height="52" fill="#0B2937"/>
+  <path d="M250 228 A150 150 0 0 1 550 228" fill="none" stroke="#FFC42E" stroke-width="18" stroke-linecap="round"/>
+  <path d="M250 228 A150 150 0 0 1 550 228" fill="none" stroke="#FFE9A8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M228 228 A172 172 0 0 1 572 228" fill="none" stroke="#FFC42E" stroke-width="4" opacity="0.35"/>
+  <circle cx="400" cy="80" r="10" fill="#FFE9A8"/>
+  <circle cx="308" cy="120" r="6" fill="#FFC42E"/>
+  <circle cx="492" cy="120" r="6" fill="#FFC42E"/>
+  <circle cx="270" cy="176" r="4" fill="#FFE9A8"/>
+  <circle cx="530" cy="176" r="4" fill="#FFE9A8"/>
+  <g stroke="#82CD34" stroke-width="5" stroke-dasharray="2 14" stroke-linecap="round">
+    <path d="M80 246 Q400 236 720 246"/>
+    <path d="M96 262 Q400 252 704 262"/>
+  </g>
+  <g transform="translate(600 130)">
+    <rect x="0" y="0" width="96" height="98" rx="10" fill="#1D4B61"/>
+    <rect x="12" y="30" width="52" height="60" rx="4" fill="#FCFBF6" transform="rotate(-4 38 60)"/>
+    <rect x="26" y="24" width="24" height="10" rx="3" fill="#FFC42E" transform="rotate(-4 38 29)"/>
+    <g stroke="#5C7180" stroke-width="3" stroke-linecap="round">
+      <line x1="20" y1="46" x2="56" y2="43"/>
+      <line x1="21" y1="56" x2="57" y2="53"/>
+      <line x1="22" y1="66" x2="50" y2="64"/>
+    </g>
+    <line x1="23" y1="78" x2="39" y2="77" stroke="#FF8A3D" stroke-width="3" stroke-linecap="round"/>
+    <rect x="74" y="44" width="14" height="34" rx="4" fill="#82CD34"/>
+    <rect x="77" y="36" width="8" height="8" rx="2" fill="#FFC42E"/>
+  </g>
+  <g transform="translate(110 160)">
+    <rect x="0" y="10" width="56" height="46" rx="14" fill="#14A5E4"/>
+    <rect x="8" y="20" width="40" height="20" rx="10" fill="#FCFBF6"/>
+    <circle cx="22" cy="30" r="4" fill="#263A47"/>
+    <circle cx="38" cy="30" r="4" fill="#263A47"/>
+    <circle cx="60" cy="6" r="8" fill="#FFC42E"/>
+    <line x1="52" y1="16" x2="58" y2="10" stroke="#FFC42E" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="14" cy="64" r="8" fill="#0B2937"/>
+    <circle cx="42" cy="64" r="8" fill="#0B2937"/>
+  </g>
+  <g fill="#FFE9A8" opacity="0.9">
+    <circle cx="150" cy="60" r="2.6"/>
+    <circle cx="220" cy="40" r="2"/>
+    <circle cx="660" cy="50" r="2.6"/>
+    <circle cx="720" cy="90" r="2"/>
+    <circle cx="60" cy="110" r="2"/>
+  </g>
+</svg>

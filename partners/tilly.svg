@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Tilly the Turtle">
+  <circle cx="60" cy="60" r="58" fill="#bfe9fb"/>
+  <ellipse cx="60" cy="74" rx="38" ry="30" fill="#4c9a4c"/>
+  <path d="M30 74 A30 24 0 0 1 90 74 Z" fill="#82cd34"/>
+  <path d="M45 74 L52 56 L68 56 L75 74 Z" fill="#5fb04a"/>
+  <circle cx="60" cy="42" r="20" fill="#7cc46a"/>
+  <circle cx="52" cy="40" r="4.5" fill="#284d28"/>
+  <circle cx="68" cy="40" r="4.5" fill="#284d28"/>
+  <circle cx="53.5" cy="38.5" r="1.4" fill="#fff"/>
+  <circle cx="69.5" cy="38.5" r="1.4" fill="#fff"/>
+  <path d="M53 50 Q60 55 67 50" stroke="#284d28" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="60" cy="30" r="9" fill="none" stroke="#ffc42e" stroke-width="4"/>
+  <rect x="43" y="27.5" width="9" height="4" rx="2" fill="#ffc42e"/>
+  <rect x="68" y="27.5" width="9" height="4" rx="2" fill="#ffc42e"/>
+</svg>

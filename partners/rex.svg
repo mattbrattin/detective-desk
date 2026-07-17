@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Rex the Raptor">
+  <circle cx="60" cy="60" r="58" fill="#ffe3c2"/>
+  <path d="M60 18 L66 32 L54 32 Z" fill="#2f8f5b"/>
+  <path d="M44 26 L50 38 L38 38 Z" fill="#2f8f5b"/>
+  <path d="M76 26 L82 38 L70 38 Z" fill="#2f8f5b"/>
+  <ellipse cx="60" cy="66" rx="34" ry="34" fill="#43b06f"/>
+  <ellipse cx="60" cy="82" rx="20" ry="14" fill="#c9ecd6"/>
+  <circle cx="47" cy="56" r="6" fill="#1d3b2a"/>
+  <circle cx="73" cy="56" r="6" fill="#1d3b2a"/>
+  <circle cx="49" cy="54" r="2" fill="#fff"/>
+  <circle cx="75" cy="54" r="2" fill="#fff"/>
+  <path d="M48 88 L54 82 L60 88 L66 82 L72 88" stroke="#1d3b2a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="38" cy="70" r="3" fill="#2f8f5b"/>
+  <circle cx="82" cy="70" r="3" fill="#2f8f5b"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Sprocket the guide robot">
+  <rect width="96" height="96" rx="20" fill="#EEF7FC"/>
+  <line x1="48" y1="14" x2="48" y2="24" stroke="#5C7180" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="48" cy="11" r="5" fill="#FFC42E"/>
+  <rect x="20" y="24" width="56" height="46" rx="16" fill="#14A5E4"/>
+  <rect x="28" y="34" width="40" height="24" rx="12" fill="#FCFBF6"/>
+  <circle cx="40" cy="46" r="5" fill="#263A47"/>
+  <circle cx="56" cy="46" r="5" fill="#263A47"/>
+  <circle cx="42" cy="44" r="1.6" fill="#FFFFFF"/>
+  <circle cx="58" cy="44" r="1.6" fill="#FFFFFF"/>
+  <path d="M42 62 Q48 67 54 62" stroke="#FCFBF6" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <rect x="30" y="72" width="36" height="12" rx="6" fill="#0B7CB0"/>
+  <circle cx="24" cy="50" r="6" fill="#FF8A3D"/>
+  <circle cx="72" cy="50" r="6" fill="#FF8A3D"/>
+</svg>

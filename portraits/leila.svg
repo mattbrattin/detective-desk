@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Dr. Leila Mensah the exhibit curator">
+  <rect width="96" height="96" rx="20" fill="#FCFBF6"/>
+  <circle cx="48" cy="48" r="20" fill="#6B4226"/>
+  <path d="M27 44 Q25 20 48 20 Q71 20 69 44 Q69 32 48 30 Q27 32 27 44" fill="#FFC42E"/>
+  <path d="M27 40 Q27 26 48 26 Q69 26 69 40 L69 34 Q69 24 48 24 Q27 24 27 34 Z" fill="#E0722A"/>
+  <circle cx="41" cy="49" r="3.2" fill="#263A47"/>
+  <circle cx="55" cy="49" r="3.2" fill="#263A47"/>
+  <circle cx="42" cy="48" r="1" fill="#FFFFFF"/>
+  <circle cx="56" cy="48" r="1" fill="#FFFFFF"/>
+  <path d="M42 58 Q48 63 54 58" stroke="#3D2412" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="34" cy="58" r="2.5" fill="#FFC42E"/>
+  <circle cx="62" cy="58" r="2.5" fill="#FFC42E"/>
+  <path d="M26 92 Q26 71 48 71 Q70 71 70 92 Z" fill="#0B7CB0"/>
+  <rect x="43" y="76" width="10" height="12" rx="2" fill="#FCFBF6"/>
+  <line x1="45" y1="80" x2="51" y2="80" stroke="#5C7180" stroke-width="1.5"/>
+  <line x1="45" y1="84" x2="51" y2="84" stroke="#5C7180" stroke-width="1.5"/>
+</svg>
